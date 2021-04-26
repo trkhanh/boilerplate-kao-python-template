@@ -1,5 +1,5 @@
 # Kao python template
-byEasy to get start: just kick off the ./init.bat
+byEasy to get start: just kick off the ./kaopy.ps1
 ```ps1
-./init.ps1
+./kaopy.ps1
 ```
