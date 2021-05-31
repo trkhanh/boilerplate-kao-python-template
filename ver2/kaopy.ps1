@@ -3,6 +3,7 @@
 Function Invoke-Script {
     # Add your commands here test
     # ...
+    git status
 }
 
-Start-Cli -Title 'My Title' -Filename 'FileToSearch'
+Start-Cli -Title 'Install JS APP' -Filename 'package.json' -AlternativePath '..' 
